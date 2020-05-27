@@ -1,7 +1,7 @@
 # SIFT-algo-self
 
 <p>The following repo is an attempt on writing the SIFT algorithm used in Computer Vision, from scratch. It is purposefully written in C++ due to speed and efficiency considerations, and also in light of the fact that all the original <strong>openCV</strong> bindings have been created in C++. The final images have also been made available in the following README as examples. The code is originally inspired from <strong>Utkarsh Sinha's</strong> rendition of SIFT algorithm written from scratch.</p>
-<p> His code is available here: [aiShack](https://aishack.in/tutorials/implementing-sift-opencv/)</p>
+<p> His code is available [here](https://aishack.in/tutorials/implementing-sift-opencv/)</p>
 
 ## Optimizations achieved:
 - Vectors employed instead of arrays, which made allocation and working of the program smoother and also reducing the lines of code.
