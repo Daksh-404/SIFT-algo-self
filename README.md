@@ -25,3 +25,10 @@ The lines which look like the radius of the circle actually represent the oriena
 #### Program Output 2:
 ![sec_op](SIFTapp/keypoints_sec.PNG)
 
+
+#### Author:
+Utkarsh Sinha
+
+#### Code Editor:
+Daksh Gupta
+
