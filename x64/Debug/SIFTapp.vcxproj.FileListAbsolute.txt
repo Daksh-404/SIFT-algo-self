@@ -1,0 +1,2 @@
+C:\Users\Daksh\source\repos\SIFTapp\x64\Debug\SIFTapp.exe
+C:\Users\Daksh\source\repos\SIFTapp\x64\Debug\SIFTapp.pdb
