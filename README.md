@@ -1,6 +1,6 @@
 # SIFT-algo-self
 
-<p>The following repo is an attempt on writing the SIFT algorithm used in Computer Vision, from scratch. It is purposefully written in C++ due to speed and efficiency considerations, and also in light of the fact that all the original <strong>openCV</strong> bindings have been created in C++. The final images have also been made available in the following README as examples.</p>
+<p>The following repo is an attempt on writing the SIFT algorithm used in Computer Vision, from scratch. It is purposefully written in C++ due to speed and efficiency considerations, and also in light of the fact that all the original <strong>openCV</strong> bindings have been created in C++. The final images have also been made available in the following README as examples. The code is originally inpired from <strong>Utkarsh Sinha's</strong> rendition of SIFT algorithm written from scratch.</p>
 
 ## Optimizations achieved:
 - Vectors employed instead of arrays, which made allocation and working of the program smoother and also reducing the lines of code.
@@ -11,7 +11,7 @@
 ## Examples:
 
 ### EXPLAINATION:
-The lines which look like the radius of the circle actually represent the orienation of that particular **Keypoint**.
+The lines which look like the radius of the circle actually represent the orientation of that particular **Keypoint**.
 
 #### Original Image 1:
 ![vintage_cars](vintage-american-cars-havana-cuba.jpg)
@@ -24,11 +24,4 @@ The lines which look like the radius of the circle actually represent the oriena
 
 #### Program Output 2:
 ![sec_op](SIFTapp/keypoints_sec.PNG)
-
-
-#### Author:
-Utkarsh Sinha
-
-#### Code Editor:
-Daksh Gupta
 
