@@ -23,5 +23,5 @@ The lines which look like the radius of the circle actually represent the oriena
 ![car](SIFTapp/car.jpg)
 
 #### Program Output 2:
-
+![sec_op](SIFTapp/keypoints_sec.PNG)
 
